@@ -8,3 +8,5 @@ def resta(a,b):
     return r
 
 print("aula 4")
+
+print (" HOLA HOY ES VIERNES")

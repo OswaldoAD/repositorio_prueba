@@ -9,3 +9,6 @@ print(s)
 print("Hola este es el ejercicio 2")
 
 print("esto hizo gunwinner")
+
+
+print("cree un rama el viernes")
